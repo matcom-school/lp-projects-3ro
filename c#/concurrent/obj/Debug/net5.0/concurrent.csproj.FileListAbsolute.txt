@@ -1,0 +1,16 @@
+/home/dany/Codigos/School/lp/c#/concurrent/bin/Debug/net5.0/concurrent
+/home/dany/Codigos/School/lp/c#/concurrent/bin/Debug/net5.0/concurrent.deps.json
+/home/dany/Codigos/School/lp/c#/concurrent/bin/Debug/net5.0/concurrent.runtimeconfig.json
+/home/dany/Codigos/School/lp/c#/concurrent/bin/Debug/net5.0/concurrent.runtimeconfig.dev.json
+/home/dany/Codigos/School/lp/c#/concurrent/bin/Debug/net5.0/concurrent.dll
+/home/dany/Codigos/School/lp/c#/concurrent/bin/Debug/net5.0/ref/concurrent.dll
+/home/dany/Codigos/School/lp/c#/concurrent/bin/Debug/net5.0/concurrent.pdb
+/home/dany/Codigos/School/lp/c#/concurrent/obj/Debug/net5.0/concurrent.csprojAssemblyReference.cache
+/home/dany/Codigos/School/lp/c#/concurrent/obj/Debug/net5.0/concurrent.GeneratedMSBuildEditorConfig.editorconfig
+/home/dany/Codigos/School/lp/c#/concurrent/obj/Debug/net5.0/concurrent.AssemblyInfoInputs.cache
+/home/dany/Codigos/School/lp/c#/concurrent/obj/Debug/net5.0/concurrent.AssemblyInfo.cs
+/home/dany/Codigos/School/lp/c#/concurrent/obj/Debug/net5.0/concurrent.csproj.CoreCompileInputs.cache
+/home/dany/Codigos/School/lp/c#/concurrent/obj/Debug/net5.0/concurrent.dll
+/home/dany/Codigos/School/lp/c#/concurrent/obj/Debug/net5.0/ref/concurrent.dll
+/home/dany/Codigos/School/lp/c#/concurrent/obj/Debug/net5.0/concurrent.pdb
+/home/dany/Codigos/School/lp/c#/concurrent/obj/Debug/net5.0/concurrent.genruntimeconfig.cache
